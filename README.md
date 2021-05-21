@@ -8,5 +8,7 @@ This repo contains:
 
 And some useful tools like visualizing wrinkles, generate simulato cpp code and so on
 
-texture.zip contains the texture files scanned based on https://academy.substance3d.com/courses/your-smartphone-is-a-material-scanner, https://magazine.substance3d.com/your-smartphone-is-a-material-scanner-vol-ii/, we scanned the material then synthesize texture maps using substance designer
+texture.zip: https://drive.google.com/file/d/1jLkpiTcVPO2FKSRBdmHvCk1dSiS832ZH/view?usp=sharing 
+
+contains the texture files scanned based on https://academy.substance3d.com/courses/your-smartphone-is-a-material-scanner, https://magazine.substance3d.com/your-smartphone-is-a-material-scanner-vol-ii/, we scanned the material then synthesize texture maps using substance designer
 
